@@ -15,7 +15,7 @@
     "zone.js": "file:../../dist/zone.js-dist/archive/zone.js.tgz"
   },
   "devDependencies": {
-    "@babel/core": "file:../../node_modules/@babel/core",
+    "@babel/core": "7.26.10",
     "@rollup/plugin-babel": "file:../../node_modules/@rollup/plugin-babel",
     "@rollup/plugin-node-resolve": "file:../../node_modules/@rollup/plugin-node-resolve",
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
@@ -23,7 +23,7 @@
     "concurrently": "3.4.0",
     "lite-server": "2.6.1",
     "protractor": "file:../../node_modules/protractor",
-    "rollup": "file:../../node_modules/rollup"
+    "rollup": "2.79.2"
   },
   "scripts": {
     "build": "yarn ngc && yarn rollup -c rollup.config.mjs",
