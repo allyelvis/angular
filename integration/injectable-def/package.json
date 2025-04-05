@@ -21,7 +21,7 @@
     "concurrently": "3.4.0",
     "lite-server": "2.6.1",
     "protractor": "file:../../node_modules/protractor",
-    "rollup": "file:../../node_modules/rollup"
+    "rollup": "2.79.2"
   },
   "scripts": {
     "test": "./run_test.sh"
