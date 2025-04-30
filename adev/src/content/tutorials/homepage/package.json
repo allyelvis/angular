@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^17.3.0-rc",
+    "@angular/common": "^17.3.12",
     "@angular/compiler": "^17.3.0-rc",
     "@angular/core": "^17.3.0-rc",
     "@angular/forms": "^17.3.0-rc",
