@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.14",
-    "@angular/cli": "^17.3.0-rc",
+    "@angular/cli": "^18.1.0",
     "@angular/compiler-cli": "^17.3.0-rc",
     "typescript": "~5.4.0"
   }
