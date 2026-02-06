@@ -19,8 +19,8 @@
     "zone.js": "~0.14.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.14",
-    "@angular/cli": "^17.3.0-rc",
+    "@angular-devkit/build-angular": "^20.3.15",
+    "@angular/cli": "^20.3.15",
     "@angular/compiler-cli": "^17.3.0-rc",
     "typescript": "~5.4.0"
   }
